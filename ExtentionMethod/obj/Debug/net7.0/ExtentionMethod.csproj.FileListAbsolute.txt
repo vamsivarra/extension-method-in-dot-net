@@ -1,0 +1,15 @@
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.csproj.AssemblyReference.cache
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.AssemblyInfoInputs.cache
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.AssemblyInfo.cs
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.csproj.CoreCompileInputs.cache
+/Users/dundi/Projects/13.08/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod
+/Users/dundi/Projects/13.08/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.deps.json
+/Users/dundi/Projects/13.08/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.runtimeconfig.json
+/Users/dundi/Projects/13.08/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.dll
+/Users/dundi/Projects/13.08/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.pdb
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.dll
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/refint/ExtentionMethod.dll
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.pdb
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.genruntimeconfig.cache
+/Users/dundi/Projects/13.08/ExtentionMethod/obj/Debug/net7.0/ref/ExtentionMethod.dll
